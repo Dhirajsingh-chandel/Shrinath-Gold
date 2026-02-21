@@ -32,7 +32,7 @@ const AboutSection = () => {
           >
             <p className="text-sm font-semibold text-primary mb-2 tracking-wider uppercase">About Us</p>
             <h2 className="text-3xl md:text-4xl font-bold text-foreground mb-6">
-              Welcome To <span className="text-gold">Shrinath Gold Pvt. Ltd.</span>
+              Welcome To <span className="text-gold">Shrinath Gold</span>
             </h2>
             <p className="text-muted-foreground leading-relaxed mb-4">
               Shrinath Gold Testing Center is a trusted gold testing and gold buying service provider in Maharashtra and nearby regions.
@@ -52,7 +52,7 @@ const AboutSection = () => {
             <p className="text-muted-foreground leading-relaxed mb-6">
               We offer instant spot cash for gold and silver. Selling gold at Shrinath Gold company is fast, simple and easy.
             </p>
-            <p className="font-semibold text-foreground mb-6">Owner: Mr. Pratap Mane</p>
+            <p className="font-semibold text-foreground mb-6">Owner: Mr. Ravindra Tapre</p>
             <a
               href="#services"
               className="inline-flex bg-primary text-primary-foreground px-8 py-3 rounded-full font-semibold hover:opacity-90 transition-opacity"
